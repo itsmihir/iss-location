@@ -1,0 +1,30 @@
+
+#map
+{    z-index: -1;
+    position: absolute;
+    height: 90%;
+    width: 99%;
+    margin-top: 0px;
+    border-width: 0px;
+    margin: 0px;
+    touch-action: pan-x pan-y;
+    margin-left: 10px;
+    border: 2px solid grey;
+   
+}
+.info
+{
+    position:absolute;
+    padding: 8px;
+    text-align: left;
+    vertical-align: top;
+    width: 250px;
+    align-content: center; 
+    margin-top: 350px;
+    margin-left: 4.5px;
+    
+}
+img
+{
+    height:35px;
+}
